@@ -1,4 +1,3 @@
-13 mins
 
 2 Hills
 
