@@ -20,9 +20,19 @@ diastolic: "74"
 
 # Blood Pressure
 
-| Date | Systolic | Diastolic |
-| ---- | -------- | --------- |
-|      |          |           |
+| Date | Systolic/mmHg | Diastolic/mmHg | Pulse/BPM |
+| ---- | ------------- | -------------- | --------- |
+|      |               |                |           |
+|      |               |                |           |
+# General Reference Chart for Adults (NIH)
+
+| Range                | Systolic/mmHg | Dastolic/mmHg |
+| -------------------- | ------------- | ------------- |
+| Normal               | Less than 120 | Less than 80  |
+| Elevated             | 120-129       | Less than 80  |
+| Hypertension Stage 1 | 130-139       | 80-89         |
+| Hypertension Stage 2 | 140-179       | 90-119        |
+| Hypertensive Crisis  | 180+          | 120+          |
 
 # Weight
 
