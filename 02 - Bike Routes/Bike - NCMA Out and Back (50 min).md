@@ -1,0 +1,1 @@
+I timed this on the Road Bike and got 50 minutes.
