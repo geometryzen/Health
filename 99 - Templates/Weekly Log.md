@@ -1,22 +1,26 @@
 ---
 exercise:
-weight: "168"
-systolic: "114"
-diastolic: "74"
+weight:
+systolic:
+diastolic:
+pulse:
 ---
+# Goal
+
+150 to 300 mins exercise
 
 # Exercise
 
-|        | 1   | Time | 2   | Time | 3   | Time | 4   | Time | Total |
-| ------ | --- | ---- | --- | ---- | --- | ---- | --- | ---- | ----- |
-| Sun NN |     |      |     |      |     |      |     |      |       |
-| Mon NN |     |      |     |      |     |      |     |      |       |
-| Tue NN |     |      |     |      |     |      |     |      |       |
-| Wed NN |     |      |     |      |     |      |     |      |       |
-| Thu NN |     |      |     |      |     |      |     |      |       |
-| Fri NN |     |      |     |      |     |      |     |      |       |
-| Sat NN |     |      |     |      |     |      |     |      |       |
-| TOTAL  |     |      |     |      |     |      |     |      |       |
+|        | 1   | 2   | 3   | 4   | Total |
+| ------ | --- | --- | --- | --- | ----- |
+| Sun NN |     |     |     |     |       |
+| Mon NN |     |     |     |     |       |
+| Tue NN |     |     |     |     |       |
+| Wed NN |     |     |     |     |       |
+| Thu NN |     |     |     |     |       |
+| Fri NN |     |     |     |     |       |
+| Sat NN |     |     |     |     |       |
+| TOTAL  |     |     |     |     |       |
 
 # Blood Pressure
 
